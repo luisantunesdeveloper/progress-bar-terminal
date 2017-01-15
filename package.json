@@ -1,0 +1,15 @@
+{
+  "name": "progress-bar-terminal",
+  "version": "0.0.1",
+  "description": "Progress bar for terminal",
+  "main": "index.js",
+  "repository": "https://github.com/luisantunesdeveloper/progress-bar-terminal.git",
+  "author": "Luís Antunes",
+  "license": "MIT",
+  "devDependencies": {
+    "window-size": "^0.3.0"
+  },
+  "dependencies": {
+    "ansi": "^0.3.1"
+  }
+}
